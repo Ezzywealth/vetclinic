@@ -47,7 +47,7 @@
 
 - **[Database]**
 - **[Table]**
-- **[Animals Data]**
+- **[Animals_Data]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
