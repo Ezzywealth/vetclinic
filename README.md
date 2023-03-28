@@ -1,37 +1,5 @@
 ## Getting Started
 
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -77,9 +45,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[Databse]**
+- **[Database]**
 - **[Table]**
-- **[Animals Data]**
+- **[Animals_Data]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,70 +69,39 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+Does not require running yet.
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-Example commands:
-
-````sh
-  cd my-folder
-  git clone git@github.com:Ezzywealth/vetclinic.git
-
+cd my-folder
+git clone git@github.com:Ezzywealth/vetclinic.git
 
 ### Install
 
 Install this project with:
 
-  cd my-project
-  Nothing to Install
-
-
---->
+cd my-project
+No need for installations yet
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+No run command yet.
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+No test to run yet.
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
-```
- -->
+No deployment instructions yet.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,14 +109,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/Ezzywealth)
-- Twitter: [@twitterhandle](https://twitter.com/EzzyWealth)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ezekiel-udiomuno)
-
+- GitHub: [@Ezzywealth](https://github.com/Ezzywealth)
+- Twitter: [@EzzyWealth](https://twitter.com/EzzyWealth)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ezekiel-udiomnuno)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,11 +121,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[animal_owners]** tables
+- [ ] **[clinic_employees]** tables
+- [ ] **[visits]** tables
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,16 +141,13 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project, kindly show your support by giving it a star. Thank you.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank Microverse for giving me the opportunity to work on this project.
+
+I would like to thank Microverse community for giving me the opportunity to work on this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -226,13 +155,7 @@ I would like to thank Microverse for giving me the opportunity to work on this p
 
 ## ❓ FAQ <a name="faq"></a>
 
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+None
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -242,7 +165,4 @@ I would like to thank Microverse for giving me the opportunity to work on this p
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-````
