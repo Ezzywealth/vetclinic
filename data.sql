@@ -8,4 +8,4 @@
  INSERT INTO animal (id,name,date_of_birth,escape_attempts,neutered,weight_kg) VALUES(7,'Squirtle','1993-04-02',3,False,-12.13);
  INSERT INTO animal (id,name,date_of_birth,escape_attempts,neutered,weight_kg) VALUES(8,'Angemon','2005-06-12',1,True,-45.0);
  INSERT INTO animal (id,name,date_of_birth,escape_attempts,neutered,weight_kg) VALUES(9,'Blossom','1998-10-13',3,True,-17);
- INSERT INTO animal (id,name,date_of_birth,escape_attempts,neutered,weight_kg) VALUES(9,'Blossom','2022-05-14',4,True,22);
+ INSERT INTO animal (id,name,date_of_birth,escape_attempts,neutered,weight_kg) VALUES(10,'Ditto','2022-05-14',4,True,22);
