@@ -48,6 +48,8 @@
 - **[Database]**
 - **[Table]**
 - **[Animals_Data]**
+- **[Species_Table]**
+- **[Owners_Table]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
