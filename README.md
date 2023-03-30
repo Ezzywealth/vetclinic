@@ -48,6 +48,9 @@
 - **[Animals_Data]**
 - **[Species_Table]**
 - **[Owners_Table]**
+- **[Visit_Table]**
+- **[Specialization_Table]**
+- **[Vets_Table]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,7 +126,6 @@ No deployment instructions yet.
 
 - [ ] **[animal_owners]** tables
 - [ ] **[clinic_employees]** tables
-- [ ] **[visits]** tables
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
