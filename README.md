@@ -43,11 +43,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Database]**
 - **[Table]**
 - **[Animals_Data]**
+- **[Species_Table]**
+- **[Owners_Table]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
