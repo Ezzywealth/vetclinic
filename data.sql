@@ -23,4 +23,3 @@ UPDATE animal SET owners_id = '2' WHERE name = 'Gabumon' OR name = 'Pikachu';
 UPDATE animal SET owners_id = '3' WHERE name = 'Devimon' OR name = 'Plantmon';
 UPDATE animal SET owners_id = '4' WHERE name = 'Charmander' OR name = 'Squirtle' OR name = 'Blossom';
 UPDATE animal SET owners_id = '5' WHERE name = 'Angemon' OR name = 'Boarmon';
-
