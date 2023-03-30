@@ -1,25 +1,17 @@
-## Getting Started
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -54,14 +46,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- No live demo yet.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -72,7 +56,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-Does not require running yet.
+[postgreSQL](https://www.postgresql.org)
 
 ### Setup
 
@@ -81,38 +65,11 @@ Clone this repository to your desired folder:
 cd my-folder
 git clone git@github.com:Ezzywealth/vetclinic.git
 
-### Install
-
-Install this project with:
-
-cd my-project
-No need for installations yet
-
-### Usage
-
-To run the project, execute the following command:
-
-No run command yet.
-
-### Run tests
-
-To run tests, run the following command:
-
-No test to run yet.
-
-### Deployment
-
-You can deploy this project using:
-
-No deployment instructions yet.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Ezekiel Udiomuno**
 
 - GitHub: [@Ezzywealth](https://github.com/Ezzywealth)
 - Twitter: [@EzzyWealth](https://twitter.com/EzzyWealth)
