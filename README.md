@@ -3,6 +3,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Schema Diagram](#schema-diagram)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -19,6 +20,10 @@
 # 📖 [Vet Clinic] <a name="about-project"></a>
 
 **[Vet Clinic]** is a project containing data and information about animals in a vet clinic and how to query those information.
+
+### Schema Diagram <a name="schema-diagram"></a>
+
+![Schema Diagram](./vet-clinic%20diagram.png)
 
 ## 🛠 Built With <a name="built-with"></a>
 
